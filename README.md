@@ -7,4 +7,4 @@
         - [x] Java Base Configuration
         - [x] Auto Configuration(Spring Boot)
     - [x] Spring Beans
-        -[x] Bean Creation XML Configuration
+        - [x] Bean Creation XML Configuration
